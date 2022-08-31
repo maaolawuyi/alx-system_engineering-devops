@@ -1,2 +1,2 @@
 #!/bin/bash
-The script Delete the directory my_first_directory 
+The script script changes the working directory to the previous one 
