@@ -1,2 +1,2 @@
 #!/bin/bash
-The script Delete the file betty 
+The script Delete the directory my_first_directory 
