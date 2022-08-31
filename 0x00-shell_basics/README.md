@@ -1,2 +1,2 @@
 #!/bin/bash
-The script Move the file betty from /tmp/ to /tmp/my_first_directory 
+The script Delete the file betty 
