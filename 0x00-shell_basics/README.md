@@ -1,2 +1,2 @@
 #!/bin/bash
-The script Write a script lists all files
+The script script that prints the type of the file named iamafile
