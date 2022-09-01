@@ -1,2 +1,2 @@
 #!/bin/bash
-Write a script that sets the permission to the file hello as file owner and group with no permission other user with all permission 
+Write a script that sets the mode of the file hello to this: -rwxr-x-wx 
