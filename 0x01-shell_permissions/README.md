@@ -1,2 +1,2 @@
 #!/bin/bash
-script that print effective username of current user
+script that prints all the groups the current user is part of
