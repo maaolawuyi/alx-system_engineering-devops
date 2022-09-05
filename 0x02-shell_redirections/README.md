@@ -1,2 +1,2 @@
 #!/bin/bash
-Let's display a file
+script that prints “Hello, World”, followed by a new line to the standard output
