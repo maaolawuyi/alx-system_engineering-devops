@@ -1,0 +1,7 @@
+?#!/bin/bash
+
+#KOCAL VARIABLE CREATION
+
+FIRST_NAME="Mojeed"
+
+echo $FIRST_NAME
